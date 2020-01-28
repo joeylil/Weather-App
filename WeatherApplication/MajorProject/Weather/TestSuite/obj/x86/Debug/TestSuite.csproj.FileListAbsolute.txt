@@ -1,0 +1,75 @@
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\UnitTestApp.xbf
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\TestSuite.xr.xml
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\TestSuite.exe
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\TestSuite.pdb
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\resources.pri
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\AppxManifest.xml
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Core\AppxManifest.xml
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Core\TestSuite.exe
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\TestSuite.build.appxrecipe
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\testhost.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\DnsClient.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\MongoDB.Bson.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\MongoDB.Driver.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\MongoDB.Driver.Core.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Newtonsoft.Json.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\System.Runtime.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\SharpCompress.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\System.Drawing.Common.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Weather.exe
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\bin\x86\Debug\Weather.pdb
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\TestSuite.csprojAssemblyReference.cache
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\UnitTestApp.g.i.cs
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\UnitTestApp.g.cs
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\XamlTypeInfo.g.cs
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\UnitTestApp.xaml
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\UnitTestApp.xbf
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\XamlSaveStateFile.xml
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\TestSuite.csproj.CoreCompileInputs.cache
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\TestSuite.csproj.CopyComplete
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\TestSuite.exe
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\TestSuite.pdb
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\ResourceHandlingTask.state
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework\en\Microsoft.VisualStudio.TestTools.UnitTesting.Resources.FrameworkMessages.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\FxResources.System.Drawing.Common.SR.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter\en\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.Resources.Resource.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\Microsoft.TestPlatform.CommunicationUtilities\en-US\Microsoft.VisualStudio.TestPlatform.CommunicationUtilities.Resources.Resources.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\Microsoft.TestPlatform.CoreUtilities\en-US\Microsoft.VisualStudio.TestPlatform.CoreUtilities.Resources.Resources.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\Microsoft.TestPlatform.CrossPlatEngine\en-US\Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Resources.Resources.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\Microsoft.TestPlatform.Utilities\en-US\Microsoft.VisualStudio.TestPlatform.Utilities.Resources.Resources.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\Microsoft.VisualStudio.TestPlatform.Common\en-US\Microsoft.VisualStudio.TestPlatform.Common.Resources.Resources.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.Resources.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel\en-US\Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.CommonResources.resw
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\priconfig.xml
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\priconfig.xml.intermediate
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\unfiltered.layout.resfiles
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\filtered.layout.resfiles
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\filtered.layout.resfiles.intermediate
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\excluded.layout.resfiles
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\excluded.layout.resfiles.intermediate
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\resources.resfiles
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\resources.resfiles.intermediate
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\pri.resfiles
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\pri.resfiles.intermediate
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\qualifiers.txt
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\qualifiers.txt.intermediate
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\resources.en.resfiles
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\resources.en.resfiles.intermediate
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\ProjectArchitectures.txt
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758264200000000.json
+G:\Education\Tafe\c#\JosephDowden_MajorProject\MajorProject\Weather\TestSuite\obj\x86\Debug\TestSuite.csprojAssemblyReference.cache
+G:\Education\Tafe\c#\JosephDowden_MajorProject\MajorProject\Weather\TestSuite\obj\x86\Debug\UnitTestApp.g.i.cs
+G:\Education\Tafe\c#\JosephDowden_MajorProject\MajorProject\Weather\TestSuite\obj\x86\Debug\UnitTestApp.g.cs
+G:\Education\Tafe\c#\JosephDowden_MajorProject\MajorProject\Weather\TestSuite\obj\x86\Debug\XamlTypeInfo.g.cs
+G:\Education\Tafe\c#\JosephDowden_MajorProject\MajorProject\Weather\TestSuite\obj\x86\Debug\UnitTestApp.xaml
+G:\Education\Tafe\c#\JosephDowden_MajorProject\MajorProject\Weather\TestSuite\obj\x86\Debug\UnitTestApp.xbf
+G:\Education\Tafe\c#\JosephDowden_MajorProject\MajorProject\Weather\TestSuite\obj\x86\Debug\XamlSaveStateFile.xml

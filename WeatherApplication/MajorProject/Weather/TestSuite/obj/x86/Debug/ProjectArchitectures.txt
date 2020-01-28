@@ -1,0 +1,2 @@
+G:\Education\Tafe\c#\Major Project\Weather\TestSuite\TestSuite.csproj;x86
+G:\Education\Tafe\c#\Major Project\Weather\Weather\Weather.csproj;x86

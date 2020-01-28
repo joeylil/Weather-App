@@ -1,0 +1,148 @@
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\App.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Views\MainPage.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Views\AustralianCurrentWeatherView.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Views\ForecastFiveDaysView.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Views\SettingsPage.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Views\UnitedKingdomCurrentWeatherView.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Weather.xr.xml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Weather.exe
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Weather.pdb
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\resources.pri
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\AppxManifest.xml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Core\AppxManifest.xml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Core\Weather.exe
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Weather.build.appxrecipe
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\DnsClient.dll
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\MongoDB.Bson.dll
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\MongoDB.Driver.dll
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\MongoDB.Driver.Core.dll
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\System.Runtime.dll
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\SharpCompress.dll
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\System.Drawing.Common.dll
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Education\Tafe\c#\Major Project\Weather\Weather\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\App.g.i.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\App.g.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\MainPage.g.i.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\MainPage.g.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\AustralianCurrentWeatherView.g.i.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\AustralianCurrentWeatherView.g.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\ForecastFiveDaysView.g.i.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\ForecastFiveDaysView.g.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\SettingsPage.g.i.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\SettingsPage.g.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\UnitedKingdomCurrentWeatherView.g.i.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\UnitedKingdomCurrentWeatherView.g.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\App.xaml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\MainPage.xaml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\AustralianCurrentWeatherView.xaml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\ForecastFiveDaysView.xaml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\SettingsPage.xaml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\UnitedKingdomCurrentWeatherView.xaml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\App.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\MainPage.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\AustralianCurrentWeatherView.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\ForecastFiveDaysView.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\SettingsPage.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Views\UnitedKingdomCurrentWeatherView.xbf
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\XamlSaveStateFile.xml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Weather.csproj.CoreCompileInputs.cache
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Weather.csproj.CopyComplete
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Weather.exe
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Weather.pdb
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\ResourceHandlingTask.state
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\FxResources.System.Drawing.Common.SR.resw
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\priconfig.xml
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\priconfig.xml.intermediate
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\filtered.layout.resfiles
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\excluded.layout.resfiles
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\resources.resfiles
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\resources.resfiles.intermediate
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\pri.resfiles
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\pri.resfiles.intermediate
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\qualifiers.txt
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\ProjectArchitectures.txt
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758264200000000.json
+D:\Education\Tafe\c#\Major Project\Weather\Weather\obj\x64\Debug\Weather.csprojAssemblyReference.cache
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\App.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Views\MainPage.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Views\AustralianCurrentWeatherView.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Views\ForecastFiveDaysView.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Views\SettingsPage.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Views\UnitedKingdomCurrentWeatherView.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Weather.xr.xml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Weather.exe
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Weather.pdb
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\resources.pri
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\AppxManifest.xml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Core\AppxManifest.xml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Core\Weather.exe
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Weather.build.appxrecipe
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\DnsClient.dll
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\MongoDB.Bson.dll
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\MongoDB.Driver.dll
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\MongoDB.Driver.Core.dll
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\System.Runtime.dll
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\SharpCompress.dll
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\System.Drawing.Common.dll
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\App.g.i.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\App.g.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\MainPage.g.i.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\MainPage.g.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\AustralianCurrentWeatherView.g.i.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\AustralianCurrentWeatherView.g.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\ForecastFiveDaysView.g.i.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\ForecastFiveDaysView.g.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\SettingsPage.g.i.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\SettingsPage.g.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\UnitedKingdomCurrentWeatherView.g.i.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\UnitedKingdomCurrentWeatherView.g.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\XamlTypeInfo.g.cs
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\App.xaml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\MainPage.xaml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\AustralianCurrentWeatherView.xaml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\ForecastFiveDaysView.xaml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\SettingsPage.xaml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\UnitedKingdomCurrentWeatherView.xaml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\App.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\MainPage.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\AustralianCurrentWeatherView.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\ForecastFiveDaysView.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\SettingsPage.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Views\UnitedKingdomCurrentWeatherView.xbf
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\XamlSaveStateFile.xml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Weather.csproj.CoreCompileInputs.cache
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Weather.csproj.CopyComplete
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Weather.exe
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Weather.pdb
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\ResourceHandlingTask.state
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\FxResources.System.Drawing.Common.SR.resw
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\priconfig.xml
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\priconfig.xml.intermediate
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\unfiltered.layout.resfiles
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\filtered.layout.resfiles
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\filtered.layout.resfiles.intermediate
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\excluded.layout.resfiles
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\excluded.layout.resfiles.intermediate
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\resources.resfiles
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\resources.resfiles.intermediate
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\pri.resfiles
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\pri.resfiles.intermediate
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\qualifiers.txt
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\qualifiers.txt.intermediate
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\ProjectArchitectures.txt
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758264200000000.json
+D:\Education\Tafe\c#\MajorProject\Weather\Weather\obj\x64\Debug\Weather.csprojAssemblyReference.cache
